@@ -7,6 +7,8 @@ Add entry to the list below as per the format specified in README.md
 
 -   [Belle](https://github.com/abdullateef97)
 
+-   [KEO](https://github.com/emmanuelkehinde)
+
 -   [Subham Bhattacharjee](https://github.com/subhaminion)
 
 -   [Kanak Garg](https://github.com/Canaque/)
